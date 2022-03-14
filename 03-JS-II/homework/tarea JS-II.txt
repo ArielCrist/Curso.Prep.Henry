@@ -1,0 +1,4 @@
+for: es un bucle, un código que se repite una y otra vez hasta que se cumple una condición que le pusimos para que pare.
+&&: significa AND. Es una condición. Si pasa una cosa y tambien otra, el código se ejecuta.
+||: significa OR. Si pasa una cosa o la otra, el código se ejecuta.
+!: Negación, NOT. Sirve para negar. No es, o no es igual a.
